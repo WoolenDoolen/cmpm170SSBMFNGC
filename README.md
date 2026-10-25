@@ -3,6 +3,12 @@
 A Phaser 4 + Vite starter for an isometric game built around a central
 panopticon tower.
 
+## Play online
+
+**[Launch the game](https://woolendoolen.github.io/cmpm170SSBMFNGC/)**
+
+The live build updates automatically whenever `main` is pushed to GitHub.
+
 The current prototype includes:
 
 - an isometric projection and circular prison ring;
