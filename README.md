@@ -5,9 +5,9 @@ panopticon tower.
 
 ## Play online
 
-**[Launch the game](https://woolendoolen-panopticon.renner.chatgpt.site/)**
+**[Launch the game](https://woolendoolen.github.io/cmpm170SSBMFNGC/)**
 
-The hosted build is generated from the same source tracked on `main`.
+The live build updates automatically whenever `main` is pushed to GitHub.
 
 The current prototype includes:
 
